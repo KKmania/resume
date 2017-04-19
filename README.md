@@ -16,6 +16,7 @@
 - 前端架：Bootstrap/HTML5
 - 数据库相关：MySQL/SQLite
 - 版本管理、文档和自动化部署工具：Svn/Git/MarkDown/Composer
+- 缓存技术：Redis
 - 单元测试：PHPUnit
 
 ### 工作经历
